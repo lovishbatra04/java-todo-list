@@ -46,8 +46,8 @@ todo-list/
 2. Open `index.html` in any browser
 3. Start adding your tasks
 
-[script.js](https://github.com/user-attachments/files/28945609/script.js)
-[style.css](https://github.com/user-attachments/files/28945603/style.css)
+[script.js](https://github.com/user-attachments/files/28945609/script.js)|
+[style.css](https://github.com/user-attachments/files/28945603/style.css)|
 [index.html](https://github.com/user-attachments/files/28945598/index.html)
 
 
